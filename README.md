@@ -1,5 +1,5 @@
 # EVOGYM-TypeScript
-[Live Demo](https://9eb51704.evogym-typescript-425.pages.dev/)
+[Live Demo](https://9eb51704.evogym-typescript-425.pages.dev/){:target="_blank"}
 <h1>Desktop View</h1>
 <h3>Home</h3>
 <img src="https://raw.githubusercontent.com/Glitchier/EVOGYM-TypeScript/master/src/evogym-1.png"><br>
