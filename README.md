@@ -1,4 +1,4 @@
-# EVOGYM-TypeScript
+# EVOGYM Website using TypeScript
 <h1><a href="https://9eb51704.evogym-typescript-425.pages.dev/" target="_blank">Live Demo</a></h1>
 <h1>Desktop View</h1>
 <h3>Home</h3>
