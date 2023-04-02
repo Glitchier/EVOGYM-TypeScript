@@ -11,7 +11,6 @@
 <img src="https://raw.githubusercontent.com/Glitchier/EVOGYM-TypeScript/master/src/evogym-5.png"><br>
 <h1>Mobile View</h1>
 <img src="https://raw.githubusercontent.com/Glitchier/EVOGYM-TypeScript/master/src/evogym-mobile-1.png"><br>
-<img src="https://raw.githubusercontent.com/Glitchier/EVOGYM-TypeScript/master/src/evogym-mobile-2.png"><br>
 <img src="https://raw.githubusercontent.com/Glitchier/EVOGYM-TypeScript/master/src/evogym-mobile-3.png"><br>
 <img src="https://raw.githubusercontent.com/Glitchier/EVOGYM-TypeScript/master/src/evogym-mobile-4.png"><br>
 <img src="https://raw.githubusercontent.com/Glitchier/EVOGYM-TypeScript/master/src/evogym-mobile-5.png"><br>
